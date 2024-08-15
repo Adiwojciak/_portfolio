@@ -1,0 +1,52 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url(/PROJECT/Projekt3/image/bacground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#countdown{
+    margin-top: 0px;
+    margin-left: 550px;
+    text-align: center;
+    font-size: 2rem;
+    
+}
+#countdown div {
+    margin: 10px;
+    display: inline; 
+}
+#left{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 350px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#portfolio {
+    margin: 10px;
+    margin-left: 400px;
+    text-align: center;
+    font-size: 2rem;
+}
+#hobby {
+    margin: 10px;
+    font-size: 2rem;
+
+}
+.logo {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 100px;
+    font-style: oblique;
+    transform: matrix3d(uppercase);
+    color: aqua;
+}
